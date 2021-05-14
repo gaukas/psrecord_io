@@ -1,0 +1,16 @@
+CHANGES.md
+LICENSE
+MANIFEST.in
+README.rst
+screenshot.png
+setup.py
+psrecord/__init__.py
+psrecord/main.py
+psrecord.egg-info/PKG-INFO
+psrecord.egg-info/SOURCES.txt
+psrecord.egg-info/dependency_links.txt
+psrecord.egg-info/requires.txt
+psrecord.egg-info/top_level.txt
+psrecord/tests/__init__.py
+psrecord/tests/test_main.py
+scripts/psrecord
